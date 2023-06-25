@@ -1,3 +1,0 @@
-- Eduardo Silveira  
-- Desenvolvedor .NET e C#
-- *Preferências:* Desenvolvimento de aplicativos desktop
