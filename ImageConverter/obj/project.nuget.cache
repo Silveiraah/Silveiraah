@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GR4ZHDo1Bu32eDOGqyklx2vypxMs8x/iEq62vfTI9fyP1bD4keFIpvkIxXH6EjVVRbe14wdbtJZ/+j98Y+yOPw==",
+  "success": true,
+  "projectFilePath": "/app/ImageConverter/ImageConverter.csproj",
+  "expectedPackageFiles": [
+    "/home/swebot/.nuget/packages/microsoft.win32.systemevents/9.0.6/microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.drawing.common/9.0.6/system.drawing.common.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
