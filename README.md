@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação na Faculdade Doutor Fransisco Maeda.
+- 🤔 Explorando novas áreas da tecnologia e desenvolvendo soluções de software.
+- 🎓 Estudando Sistemas de Informação na Faculdade Doutor Fransisco Maeda em Ituverava, SP.
 - 💼 Trabalhando como Suporte Técnico em Informática na Fundação Educacional de Ituverava.
-- 🌱 Aprendendo mais sobre HTML,CSS,JavaScript e PHP.
+- 🌱 Aprendendo mais sobre HTML, CSS, JavaScript e PHP.
 
 ## Minhas Skills
 
@@ -23,12 +23,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://[github.com/iuricode](https://github.com/Silveiraah)" title="Perfil do Silveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eduardo-rego-silveira)](www.linkedin.com/in/eduardo-rego-silveira)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edusilverprog@gmail.com)](mailto:edusilverprog@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Silveiraah)
