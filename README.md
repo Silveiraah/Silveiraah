@@ -23,12 +23,12 @@
 
 <br/>
 
-<a href="https://[github.com/iuricode](https://github.com/Silveiraah)" title="Perfil do Silveira">
+<a href="https://[github.com/Silveiraah](https://github.com/Silveiraah)" title="Perfil do Silveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eduardo-rego-silveira)](www.linkedin.com/in/eduardo-rego-silveira)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edusilverprog@gmail.com)](mailto:edusilverprog@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-edusilverprog@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edusilverprog@gmail.com)](mailto:edusilverprog@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Silveiraah)
