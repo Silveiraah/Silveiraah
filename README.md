@@ -1,24 +1,34 @@
-###
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silveiraah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Silveiraah&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Sobre mim
 
-###
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Sistemas de Informação na Faculdade Doutor Fransisco Maeda.
+- 💼 Trabalhando como Suporte Técnico em Informática na Fundação Educacional de Ituverava.
+- 🌱 Aprendendo mais sobre HTML,CSS,JavaScript e PHP.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+## Minhas Skills
 
-###
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
