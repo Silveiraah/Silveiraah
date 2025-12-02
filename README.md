@@ -5,7 +5,7 @@
 - 🤔 Explorando novas áreas da tecnologia e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas de Informação na Faculdade Doutor Fransisco Maeda em Ituverava, SP.
 - 💼 Trabalhando como Suporte Técnico em Informática na Fundação Educacional de Ituverava.
-- 🌱 Aprendendo mais sobre HTML, CSS, JavaScript e PHP.
+- 🌱 Aprendendo mais sobre HTML, CSS, JavaScript e Java.
 
 ## Minhas Skills
 
